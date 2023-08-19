@@ -25,6 +25,7 @@ coverage
 # Dependency directory
 node_modules
 src
+note.md
 bower_components
 
 # Editors
